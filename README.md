@@ -1,4 +1,5 @@
-Project 2 Design
+Project 2
+
 Data Structures
 Users
 userdata.Username_hash stored as a hash for simplicity, storing password
